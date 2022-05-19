@@ -1,6 +1,8 @@
-# [Link to my Youtube Video Explaining this whole Notebook](https://www.youtube.com/watch?v=X1q993i7Gic&list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR&index=22)
+## We are going to implement GoogLeNet and train it on CIFAR-10.
 
-[![Imgur](https://imgur.com/lwpvjHo.png)](https://www.youtube.com/watch?v=X1q993i7Gic&list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR&index=22)
+# [Link to my Youtube Video Explaining this whole Notebook](https://www.youtube.com/watch?v=CZNYrkdDrmQ&list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR&index=12)
+
+[![Imgur](https://imgur.com/a5lSG5y.png)](https://www.youtube.com/watch?v=CZNYrkdDrmQ&list=PLxqBkZuBynVRyOJs4RWmB_fKlOVe5S8CR&index=12)
 
 ### Author: Rohan Paul
 
